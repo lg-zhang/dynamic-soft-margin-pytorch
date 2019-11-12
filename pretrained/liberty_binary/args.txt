@@ -1,0 +1,1 @@
+train.py --train_data brown.liberty --test_data brown.liberty brown.yosemite brown.notredame --loss_type dsm --patch_size 32 --bs 1024 --lr 0.1 --lr_policy linear --num_steps 100000 --data_aug --binary --suffix dsm_bs1024_lr0.1_linear_binary_3BRDC2

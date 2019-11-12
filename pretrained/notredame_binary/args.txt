@@ -1,0 +1,1 @@
+train.py --train_data brown.notredame --binary --suffix binary_YVGXDD
